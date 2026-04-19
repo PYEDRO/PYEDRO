@@ -1,4 +1,4 @@
-- # 👋 Fala, eu sou Pedro
+# 👋 Fala, eu sou Pedro
 
 💻 IA Generativa | Machine Learning Engineer | Data Science | MLOps 
 
