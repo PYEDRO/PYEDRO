@@ -1,16 +1,47 @@
-## Hi there 👋
+- # 👋 Fala, eu sou Pedro
 
-<!--
-**PYEDRO/PYEDRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IA Generativa | Machine Learning Engineer | Data Science | MLOps 
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Advanced-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construo soluções de IA que saem do experimento e vão para produção, com foco em impacto real de negócio.
+
+📌 Projetos em destaque:
+### 🧠 LLM RAG Agent
+
+Sistema de Insights financeiros de LLM usando RAG com Chat integrado.
+- 🔥 fintech-intel [link](https://github.com/PYEDRO/fintech-intel)
+
+### 🤖 AI Sentiment Analysis API
+
+Sistema de análise de sentimentos com deploy em nuvem e API escalável.
+- 🔥 Sentiment_analysis_system [link](https://github.com/PYEDRO/Sentiment_analysis_system)
+
+### 🧠 LLM RAG Agent
+
+Agente com LLM usando RAG  Financeiro para respostas contextuais.
+- 🔥 chat_bot_banking [link](https://github.com/PYEDRO/chat_bot_banking)
+
+## 🚀 Tech Stack :
+- LLM
+- RAG
+- FINE TURNING
+- Deep Learning (PyTorch, TensorFlow)
+- APIs com FastAPI
+- PyTorch | TensorFlow | OpenCV
+- Deploy em AWS
+
+📊 Atualmente focado em:
+- LLMs
+- MLOps
+- Sistemas escaláveis
+
+## 🧠 Mentalidade
+
+Não foco apenas em modelo, mas em **entregar valor em produção**.
+
+
+📫 Contato:
+- LinkedIn: www.linkedin.com/in/pedro-yuri-developer
+
