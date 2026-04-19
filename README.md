@@ -8,19 +8,34 @@
 Construo soluções de IA que saem do experimento e vão para produção, com foco em impacto real de negócio.
 
 📌 Projetos em destaque:
-### 🧠 LLM RAG Agent
+### 💰 Fintech Intelligence Platform
 
-Sistema de Insights financeiros de LLM usando RAG com Chat integrado.
+Desenvolvimento de uma plataforma orientada a dados para análise de comportamento financeiro, utilizando Machine Learning para geração de insights e suporte à tomada de decisão.
+
+🔹 Construção de pipeline de dados para ingestão e processamento
+🔹 Aplicação de modelos preditivos para identificação de padrões e tendências
+🔹 Estrutura pensada para escalabilidade e integração com serviços em nuvem
+
 - 🔥 fintech-intel [link](https://github.com/PYEDRO/fintech-intel)
 
-### 🤖 AI Sentiment Analysis API
+### 🤖 Sentiment Analysis System
 
-Sistema de análise de sentimentos com deploy em nuvem e API escalável.
+Desenvolvimento de um sistema de classificação de sentimentos com foco em aplicações reais, permitindo análise automatizada de feedbacks e suporte à tomada de decisão orientada por dados.
+
+🔹 Construção de pipeline de NLP (limpeza, vetorização e modelagem)
+🔹 Treinamento e avaliação de modelos para classificação de texto
+🔹 Arquitetura preparada para evolução em API escalável e deploy em nuvem
+
 - 🔥 Sentiment_analysis_system [link](https://github.com/PYEDRO/Sentiment_analysis_system)
 
-### 🧠 LLM RAG Agent
+### 🏦 AI Banking Assistant
 
-Agente com LLM usando RAG  Financeiro para respostas contextuais.
+Desenvolvimento de um assistente virtual voltado ao setor financeiro, capaz de interpretar solicitações de usuários e automatizar interações, com potencial aplicação em fintechs e bancos digitais.
+
+🔹 Implementação de NLP para compreensão de intenções e respostas automatizadas
+🔹 Estrutura modular para integração com APIs bancárias e serviços externos
+🔹 Base para evolução em agentes inteligentes com LLMs e automação de processos
+
 - 🔥 chat_bot_banking [link](https://github.com/PYEDRO/chat_bot_banking)
 
 ## 🚀 Tech Stack :
